@@ -15,20 +15,20 @@ The goal is to show how federated learning works in practice, with or without di
 
 1. Clone the repository:
 
-git clone https://github.com/Miha200101/Privacy_Preserving_FL.git
-cd Privacy_Preserving_FL
+`git clone https://github.com/Miha200101/Privacy_Preserving_FL.git`
+`cd Privacy_Preserving_FL`
 
 
 2. Create and activate the environment:
 
-conda env create -f environment.yml -n Privacy_Preserving_FL
-conda activate Privacy_Preserving_FL
+`conda env create -f environment.yml -n Privacy_Preserving_FL`
+`conda activate Privacy_Preserving_FL`
 
 
 1. Run the simulation:
 
-cd src
-python run_simulation.py
+`cd src`
+`python run_simulation.py`
 
 ## ⚙️ Configuration
 
